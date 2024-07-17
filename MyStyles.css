@@ -1,0 +1,12 @@
+body,h1,h2,h3,ul,li{
+    margin:6;
+    padding:6;
+}
+h1{
+    color:rgb(33, 175, 104);
+    text-align: center;
+}
+body{
+    background-color: rgb(138,171,156);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
